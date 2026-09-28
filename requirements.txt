@@ -1,2 +1,5 @@
 streamlit
 openai
+chromadb
+pysqlite3-binary
+beautifulsoup4
